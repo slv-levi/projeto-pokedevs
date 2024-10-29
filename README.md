@@ -20,3 +20,6 @@ Um projeto interativo, que consiste em cartões, com descrições, de alguns "Po
   <a href = "mailto:levizinhowskateboard@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/levi-silva-0b3b33206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
+[def]: /src/imagens/imagens readme/Animação tela pokedevs.gi
