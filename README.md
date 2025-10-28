@@ -3,14 +3,14 @@ Um projeto interativo, que consiste em cartões, com descrições, de alguns "Po
 
 ## Podemos ver atraves dessa aprensentação como ele se comporta, a animação e a interação na troca das images/descrições:
 
-[<img src="./src/imagens/imagens readme/Animação tela pokedevs.gif">](https://slv-levi.github.io/projeto-pokedevs/)
+[<img src="./src/imagens/imagens-readme/animacao.gif">](https://slv-levi.github.io/projeto-pokedevs/)
 <a href="https://slv-levi.github.io/projeto-pokedevs/" target="_blank">link para a página.</a>
 
 ## Tecnologias utilizadas
 - HTML;
 - CSS;
 - JAVASCRIPT;
-<img src="./src/imagens/imagens readme/pngegg.png" alt="png das linguagens html, css e javascript">
+<img src="./src/imagens/imagens-readme/pngegg.png" alt="png das linguagens html, css e javascript">
 
 ## Contatos
 <div> 
