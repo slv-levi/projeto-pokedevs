@@ -3,7 +3,7 @@ Um projeto interativo, que consiste em cartões, com descrições, de alguns "Po
 
 ## Podemos ver atraves dessa aprensentação como ele se comporta, a animação e a interação na troca das images/descrições:
 
-[<img src="./src/imagens/imagens readme/Animação tela pokedevs.gif">](https://slv-levi.github.io/projeto-pokedevs/)
+![animação](https://github.com/user-attachments/assets/23f5bb1a-c286-4c13-9069-e72e1fab0661)
 <a href="https://slv-levi.github.io/projeto-pokedevs/" target="_blank">link para a página.</a>
 
 ## Tecnologias utilizadas
