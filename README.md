@@ -10,7 +10,7 @@ Um projeto interativo, que consiste em cartões, com descrições, de alguns "Po
 - HTML;
 - CSS;
 - JAVASCRIPT;
-<img src="./src/imagens/imagens-readme/pngegg.png" alt="png das linguagens html, css e javascript">
+<img width="3960" height="1500" alt="Image" src="https://github.com/user-attachments/assets/cd5bac8f-faa2-4623-a8b4-f5c186aeca63" />
 
 ## Contatos
 <div> 
